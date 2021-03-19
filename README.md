@@ -1,5 +1,5 @@
 ## Interview Preparation  
-### Q&A:
+### General Knowledge:
 * What is DevOps and what is the benefit of using it?  
   ***DevOps is the combination of development and operations, previously when these roles***  
   ***were separate inter-team conflicts were common place. However, when combined the service***  
@@ -31,3 +31,6 @@
   ***ideally with the company I am eventually contracted to. I then intend to grow my knowledge and***  
   ***skills for 2-3 years and eventually pursue a role as a senior DevOps engineer. However, if an***  
   ***opportunity comes along that I find attractive, I could see myself leaving this path for another.***  
+    
+  ### SQL:
+ 
