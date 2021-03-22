@@ -57,4 +57,10 @@
 * What is an entity relationship diagram and what is it used for?  
   ***An entity relationship diagram is a diagram that displays the structure of a database, including the***  
   ***various relationships between the tables that make up a database. It's used to both plan the structure***  
-  ***of a database and as a reference to construct queries that will be the most effective for that database.***  
+  ***of a database and as a reference to construct queries that will be the most effective for that database.***   
+  
+### GIT:  
+* What is GIT:  
+  ***GIT is a version control system that allows users to make recorded changes to code. The benefit of this***  
+  ***is that you can easily roll back code to a functional state in the event of a build failure or something***  
+  ***simmilar***  
