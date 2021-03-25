@@ -64,3 +64,14 @@
   ***GIT is a version control system that allows users to make recorded changes to code. The benefit of this***  
   ***is that you can easily roll back code to a functional state in the event of a build failure or something***  
   ***simmilar***  
+  
+### OOP: 
+* What is Object-Oriented Programming?  
+  ***Object-Oriented programming is***
+* What are the benefits of OOP?
+* Can you tell me a use case for OOP?
+* What are the four pillars of OOP?
+* Describe Abstraction
+* Describe Inheritance
+* Describe Encapsulation
+* Describe Polymorphism
