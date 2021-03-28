@@ -32,6 +32,7 @@
   ***skills for 2-3 years and eventually pursue a role as a senior DevOps engineer. However, if an***  
   ***opportunity comes along that I find attractive, I could see myself leaving this path for another.***  
 
+
 ### SQL:  
 * What is a JOIN?  
   ***A JOIN is a clause that is used to combine two or more tables based on the relationship between***  
@@ -58,17 +59,29 @@
   ***An entity relationship diagram is a diagram that displays the structure of a database, including the***  
   ***various relationships between the tables that make up a database. It's used to both plan the structure***  
   ***of a database and as a reference to construct queries that will be the most effective for that database.***   
-  
+
+
 ### GIT:  
-* What is GIT:  
+* What is GIT and what are the benefits of using it?  
   ***GIT is a version control system that allows users to make recorded changes to code. The benefit of this***  
   ***is that you can easily roll back code to a functional state in the event of a build failure or something***  
   ***simmilar***  
-  
+
+
 ### OOP: 
 * What is Object-Oriented Programming?  
-  ***Object-Oriented programming is***
-* What are the benefits of OOP?
+  ***Object-Oriented programming is a variant of programming that organizes software design around***  
+  ***the creation of objects rather than functions. It uses the four pillars of OOP to keep code as efficient***  
+  ***and DRY as possible.***  
+  
+* What are the benefits of OOP?  
+  ***One of the major benefits of using OOP is that it allows developers to keep their code as DRY as possible,***  
+  ***by which I mean it allows them to create code in a re-usable format. This is extremly beneficial because***  
+  ***it means that the creation of code is far more efficient than it would be without using OOP and therefore***  
+  ***a developer can create a minimum amount of code with a maximum amount of usability. Futhermore OOP***  
+  ***is inherently far more modular than traditional code meaning that problems are usually far easier to fix***  
+  ***and changes are far easier to manage.***
+
 * Can you tell me a use case for OOP?
 * What are the four pillars of OOP?
 * Describe Abstraction
