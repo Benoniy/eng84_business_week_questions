@@ -54,7 +54,7 @@
   ***DML, DDL, DCL and TCL are all subsets of the language SQL each of which concerning a type of***  
   ***interaction with the database. DDL consists of commands focused on Defining the structure of the***  
   ***database, DML consists of commands focused on the manipulation of the contents of pre-defined***  
-  ***tables, DCL consists of commands focused on management of permissions to clients and finaly TCL***  
+  ***tables, DCL consists of commands focused on management of permissions to clients and finally TCL***  
   ***consists of commands focused on managing the changes that are made when using DML commands.***   
 
 
@@ -89,7 +89,7 @@
   ***possible, by which I mean it allows them to create code in a re-usable format. This is extremly***  
   ***beneficial because it means that the creation of code is far more efficient than it would be without***  
   ***using OOP and therefore a developer can create a minimum amount of code with a maximum amount of***  
-  ***usability. Futhermore OOP is inherently far more modular than traditional code meaning that problems***  
+  ***usability. Furthermore, OOP is inherently far more modular than traditional code meaning that problems***  
   ***are usually far easier to fix and changes are far easier to manage.***  
 
 
