@@ -1,5 +1,30 @@
+## Feedback:  
+1. TMAY - make it more personal, include hobbies or achievments  
+2. Have two weaknesses prepared
+3. LOOK AT THE CAMERA  
+4. 
+
+
 ## Interview Preparation  
 ### General Knowledge:
+* Tell me about yourself  
+  ***make it more personal, hobbies and achievments / volunteering***  
+  ***Hi my name is Ben, I have a real passion for technology which lead me to graduating from Essex***  
+  ***University with a bachelor's degree in computer science. During my time at university I***  
+  ***specialised in programming-oriented topics such as Python, Java, SQL and C#. I used my skills***  
+  ***to complete my final year project which was about using neural network technology and Image***  
+  ***manipulation to identify the presence of malaria in images of blood cells. To achieve this, I***  
+  ***used new technologies such as Tensorflow with NVIDEA CUDA in python to create a customised***  
+  ***process for image classification. Using an agile approach I managed to create a neural network***  
+  ***that was capable of discerning infection status of a blood cell with 99% accuracy. I have joined***  
+  ***Sparta Global in the hopes of expanding my skillset to pursue a career as a Junior DevOps engineer***  
+  ***and consultant.***  
+
+
+* What is a weakness of yours?
+  ******
+
+
 * What is DevOps and what is the benefit of using it?  
   ***DevOps is the combination of development and operations, previously when these roles***  
   ***were separate inter-team conflicts were common place. However, when combined the service***  
@@ -7,11 +32,8 @@
   ***inter-team disputes and increasing the rate of development.***  
 
 
-* What is Agile and what is the benefit of implementing it?  
-  ***Agile is a development methodology that emphasizes transparency, response to change and***  
-  ***continuous delivery. The benefit of this is that the project can be changed based on the needs***  
-  ***of the client, it also helps with time management and allows for greater flexibility through***  
-  ***modularity***  
+* What skills should a consultant have and how have you learnt them?
+  *** ***
 
 
 * Why did you choose Sparta Global?  
@@ -21,20 +43,36 @@
   ***respected company.***  
 
 
-* What is SCRUM and what is the benefit of implementing it?  
-  ***SCRUM is an implementation of agile which uses regular sprints consisting of user stories as***  
-  ***well as retrospectives to increment through a project on a regular basis It's beneficial because***  
-  ***it's highly adaptive to new requirements, and it is fully transparent. This allows every user to***  
-  ***have a broad understanding of the work that must be achieved and how they should implement***  
-  ***it.***  
-
-
 * Where do you see yourself in 2-5 years time?  
   ***For the next two years I intend to pursue the opportunities given to me by Sparta Global as a***  
   ***DevOps consultant. After that I would like to progress to being a full time DevOps engineer,***  
   ***ideally with the company I am eventually contracted to. I then intend to grow my knowledge and***  
   ***skills for 2-3 years and eventually pursue a role as a senior DevOps engineer. However, if an***  
   ***opportunity comes along that I find attractive, I could see myself leaving this path for another.***  
+
+
+### Agile:  
+* What is Agile and what is the benefit of implementing it?  
+  ***Agile is a development methodology that emphasizes transparency, response to change and***  
+  ***continuous delivery. The benefit of this is that the project can be changed based on the needs***  
+  ***of the client, it also helps with time management and allows for greater flexibility through***  
+  ***modularity***  
+
+
+* What are the four values of agile?
+  *** ***
+
+
+* What are the three roles of scrum?  
+  *** ***
+
+
+* What is SCRUM and what is the benefit of implementing it?  
+  ***SCRUM is an implementation of agile which uses regular sprints consisting of user stories as***  
+  ***well as retrospectives to increment through a project on a regular basis. It's beneficial because***  
+  ***it's highly adaptive to new requirements, and it is fully transparent. This allows every user to***  
+  ***have a broad understanding of the work that must be achieved and how they should implement***  
+  ***it.***  
 
 
 ### SQL:  
@@ -75,6 +113,11 @@
   ***GIT is a version control system that allows users to make recorded changes to code. The benefit***  
   ***of this is that you can easily roll back code to a functional state in the event of a build failure***  
   ***or something similar***  
+
+
+### API:
+* What is an API and what are the benefits of using it?  
+  ***An API or Application programming inteface is an intemediary***
 
 
 ### OOP: 
@@ -126,12 +169,9 @@
   
 * Describe Polymorphism  
   ***Polymorphism means "many forms", it is used when defining a behaviour or value that overwrites a***  
-  ***pre-existing parent value or behaviour. Essentially it means that you can have the same behaviour***  
-  ***be different for different children of a parent class. This allows developers to create blanket***  
-  ***behaviours that work for the most part and override them in the specific cases that they want it***  
-  ***to be different.***
-
-
+  ***pre-existing value or behaviour. For example if I created 
+  
+  
 ### TDD:  
 * What is TDD and what are the benefits of using it?  
   ***TDD means Test Driven Development. TDD is a development methodology that allows for the fast and***  
