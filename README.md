@@ -2,7 +2,6 @@
 1. TMAY - make it more personal, include hobbies or achievments  
 2. Have two weaknesses prepared
 3. LOOK AT THE CAMERA  
-4. 
 
 
 ## Interview Preparation  
@@ -63,16 +62,20 @@
   *** ***
 
 
-* What are the three roles of scrum?  
-  *** ***
-
-
 * What is SCRUM and what is the benefit of implementing it?  
   ***SCRUM is an implementation of agile which uses regular sprints consisting of user stories as***  
   ***well as retrospectives to increment through a project on a regular basis. It's beneficial because***  
   ***it's highly adaptive to new requirements, and it is fully transparent. This allows every user to***  
   ***have a broad understanding of the work that must be achieved and how they should implement***  
   ***it.***  
+  
+  
+* What are the three roles of scrum?  
+  *** ***
+ 
+ 
+* What are the SCRUM artifacts?  
+  *** ***
 
 
 ### SQL:  
