@@ -82,9 +82,24 @@
   ***is inherently far more modular than traditional code meaning that problems are usually far easier to fix***  
   ***and changes are far easier to manage.***
 
-* Can you tell me a use case for OOP?
+* Can you tell me a use case for OOP?  
+  ***One use case for OOP would be in game development, modern games are very large programs that without OOP would be***
+  ***nearly impossible create and maintain. OOP solves this problem by enacting its four pillars, say for example***  
+  ***I wanted to create a goblin enemy. Without OOP I would have to create each one individually but with OOP***  
+  ***I can define a class and then make as many instances of that class as I want or as many variants of that class***  
+  ***as I want using polymorphism and inheretance.***
+  
 * What are the four pillars of OOP?
+  
+  
 * Describe Abstraction
+  
+  
 * Describe Inheritance
+  
+  
 * Describe Encapsulation
+  
+  
 * Describe Polymorphism
+
