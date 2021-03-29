@@ -119,8 +119,21 @@
   
   
 * Describe Encapsulation  
-  ***Encapsulation is***  
+  ***Encapsulation binds related data into containers that make it easier to manage and protect, it is***  
+  ***an essential part of OOP that many of the other pillars rely on. The modularity that it provides***  
+  ***allows for ease of use and ease of modification.***
 
   
 * Describe Polymorphism  
+  ***Polymorphism means "many forms", it is used when defining a behaviour or value that overwrites a***  
+  ***pre-existing parent value or behaviour. Essentially it means that you can have the same behaviour***  
+  ***be different for different children of a parent class. This allows developers to create blanket***  
+  ***behaviours that work for the most part and override them in the specific cases that they want it***  
+  ***to be different.***
 
+
+### TDD:  
+* What is TDD?  
+
+
+* What are the benefits of using TDD?  
