@@ -64,56 +64,62 @@
 
 
 * What is an entity relationship diagram and what is it used for?  
-  ***An entity relationship diagram is a diagram that displays the structure of a database, including the***  
-  ***various relationships between the tables that make up a database. It's used to both plan the structure***  
-  ***of a database and as a reference to construct queries that will be the most effective for that database.***   
+  ***An entity relationship diagram is a diagram that displays the structure of a database, including***  
+  ***the various relationships between the tables that make up a database. It's used to both plan the***  
+  ***structure of a database and as a reference to construct queries that will be the most effective***  
+  ***for that database.***   
 
 
 ### GIT:  
 * What is GIT and what are the benefits of using it?  
-  ***GIT is a version control system that allows users to make recorded changes to code. The benefit of this***  
-  ***is that you can easily roll back code to a functional state in the event of a build failure or something***  
-  ***simmilar***  
+  ***GIT is a version control system that allows users to make recorded changes to code. The benefit***  
+  ***of this is that you can easily roll back code to a functional state in the event of a build failure***  
+  ***or something similar***  
 
 
 ### OOP: 
 * What is Object-Oriented Programming?  
   ***Object-Oriented programming is a variant of programming that organizes software design around***  
-  ***the creation of objects rather than functions. It uses the four pillars of OOP to keep code as efficient***  
-  ***and DRY as possible.***  
+  ***the creation of objects rather than functions. It uses the four pillars of OOP to keep code as***  
+  ***efficient and DRY as possible.***  
   
 
 * What are the benefits of OOP?  
-  ***One of the major benefits of using OOP is that it allows developers to keep their code as DRY as possible,***  
-  ***by which I mean it allows them to create code in a re-usable format. This is extremly beneficial because***  
-  ***it means that the creation of code is far more efficient than it would be without using OOP and therefore***  
-  ***a developer can create a minimum amount of code with a maximum amount of usability. Futhermore OOP***  
-  ***is inherently far more modular than traditional code meaning that problems are usually far easier to fix***  
-  ***and changes are far easier to manage.***
+  ***One of the major benefits of using OOP is that it allows developers to keep their code as DRY as***  
+  ***possible, by which I mean it allows them to create code in a re-usable format. This is extremly***  
+  ***beneficial because it means that the creation of code is far more efficient than it would be without***  
+  ***using OOP and therefore a developer can create a minimum amount of code with a maximum amount of***  
+  ***usability. Futhermore OOP is inherently far more modular than traditional code meaning that problems***  
+  ***are usually far easier to fix and changes are far easier to manage.***  
 
 
 * Can you tell me a use case for OOP?  
   ***One use case for OOP would be in game development, modern games are very large programs that without***  
-  ***OOP would be nearly impossible create and maintain. OOP solves this problem by enacting its four pillars,***  
-  ***say for example I wanted to create a goblin enemy. Without OOP I would have to create each one individually***  
-  ***but with OOP I can define a class and then make as many instances of that class as I want or as many variants***  
-  ***of that class as I desire using polymorphism and inheritance.***  
+  ***OOP would be nearly impossible create and maintain. OOP solves this problem by enacting its four***  
+  ***pillars, say for example I wanted to create a goblin enemy. Without OOP I would have to create each***  
+  ***one individually but with OOP I can define a class and then make as many instances of that class***  
+  ***as I want or as many variants of that class as I desire using polymorphism and inheritance.***  
   
 
 * What are the four pillars of OOP?  
-  ***The four pillars of OOP are***
+  ***The four pillars of OOP are four essential concepts that make OOP so effective. They are Abstraction,***  
+  ***Inheritance, Encapsulation and Polymorphism.***  
   
 
 * Describe Abstraction  
-  
+  ***Abstraction is the idea of hiding non-essential information from the outside world, a great example***  
+  ***of this is the smartphone. It's not required that the end user actually understands how it works,***  
+  ***all they are concerned with is that it DOES work.***  
   
 
 * Describe Inheritance  
+  ***Inheritance is the act of creating a new class based on a class you have already made, it allows***  
+  ***this new sub-class to inherit the attributes and methods of the parent class without the developer***  
+  ***having to write it all again. This provides a high efficiency way of re-using code in related classes.***
   
-
   
 * Describe Encapsulation  
-  
+  ***Encapsulation is***  
 
   
 * Describe Polymorphism  
