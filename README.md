@@ -133,7 +133,9 @@
 
 
 ### TDD:  
-* What is TDD?  
-
-
-* What are the benefits of using TDD?  
+* What is TDD and what are the benefits of using it?  
+  ***TTD means Test Driven Development. TTD is a development methodology that allows for the fast and***  
+  ***effective testing of code using unit tests. The benefit of using this methodology is that in the***  
+  ***event of a code breaking change, developers can easily localise and fix the problem. Futhermore, when***  
+  ***using CI/CD these tests can be used to automatically ensure a non-functional product doesn't replace***  
+  ***a current functional one.***
