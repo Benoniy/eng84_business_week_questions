@@ -32,7 +32,7 @@
 
 
 * What skills should a consultant have and how have you learnt them?
-  *** ***
+  ******
 
 
 * Why did you choose Sparta Global?  
@@ -58,10 +58,18 @@
   ***modularity***  
 
 
-* What are the four values of agile?
-  *** ***
+* What are the three amigos of agile?  
+  ***The three amigos approach to agile***
 
 
+* What are the four values of agile?  
+  1. ***Individuals and interactions over processes and tools.***  
+  2. ***Working software over comprehensive documentation.***   
+  3. ***Customer collaboration over contract negotiation.***  
+  4. ***Respond to change over following a plan.***  
+
+
+### SCRUM:  
 * What is SCRUM and what is the benefit of implementing it?  WHY IS IT DIFFERENT TO AGILE?????????????????????????  
   ***SCRUM is an implementation of agile which uses regular sprints consisting of user stories as***  
   ***well as retrospectives to increment through a project on a regular basis. It's beneficial because***  
@@ -71,14 +79,16 @@
   
   
 * What are the three roles of SCRUM?  
-  *** ***
+  ***The three roles of SCRUM are SCRUM master, Product Owner and development team.***
 
 
 * What are the SCRUM events?
- 
+  ***There are five SCRUM events. Sprint planning, daily scrum, sprint review, sprint retrospective and***  
+  ***the sprint!***
+
  
 * What are the SCRUM artifacts?  
-  *** ***
+  ******
 
 
 ### SQL:  
@@ -123,7 +133,7 @@
 
 ### API:
 * What is an API and what are the benefits of using it?  
-  ***An API or Application programming inteface is an intemediary***
+  ***An API or Application programming interface is an intemediary***
 
 
 ### OOP: 
@@ -135,7 +145,7 @@
 
 * What are the benefits of OOP?  
   ***One of the major benefits of using OOP is that it allows developers to keep their code as DRY as***  
-  ***possible, by which I mean it allows them to create code in a re-usable format. This is extremly***  
+  ***possible, by which I mean it allows them to create code in a re-usable format. This is extremely***  
   ***beneficial because it means that the creation of code is far more efficient than it would be without***  
   ***using OOP and therefore a developer can create a minimum amount of code with a maximum amount of***  
   ***usability. Furthermore, OOP is inherently far more modular than traditional code meaning that problems***  
@@ -175,16 +185,19 @@
   
 * Describe Polymorphism  
   ***Polymorphism means "many forms", it is used when defining a behaviour or value that overwrites a***  
-  ***pre-existing value or behaviour. For example if I created 
+  ***pre-existing value or behaviour. For example if I created a class called snake with a default***  
+  ***behaviour hunt which used venom to hunt prey, if I then created a class called constrictor that***  
+  ***inherited from snake I could override the hunt behaviour to utilize constriction.***  
   
   
 ### TDD:  
 * What is TDD and what are the benefits of using it?  
   ***TDD means Test Driven Development. TDD is a development methodology that allows for the fast and***  
   ***effective testing of code using unit tests. The benefit of using this methodology is that in the***  
-  ***event of a code breaking change, developers can easily localise and fix the problem. Futhermore, when***  
+  ***event of a code breaking change, developers can easily localise and fix the problem. Furthermore, when***  
   ***using CI/CD these tests can be used to automatically ensure a non-functional product doesn't replace***  
   ***a current functional one.***  
   
+
 ### Python:
 * 
