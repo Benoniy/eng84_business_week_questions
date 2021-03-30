@@ -62,7 +62,7 @@
   *** ***
 
 
-* What is SCRUM and what is the benefit of implementing it?  
+* What is SCRUM and what is the benefit of implementing it?  WHY IS IT DIFFERENT TO AGILE?????????????????????????  
   ***SCRUM is an implementation of agile which uses regular sprints consisting of user stories as***  
   ***well as retrospectives to increment through a project on a regular basis. It's beneficial because***  
   ***it's highly adaptive to new requirements, and it is fully transparent. This allows every user to***  
@@ -70,8 +70,11 @@
   ***it.***  
   
   
-* What are the three roles of scrum?  
+* What are the three roles of SCRUM?  
   *** ***
+
+
+* What are the SCRUM events?
  
  
 * What are the SCRUM artifacts?  
