@@ -24,13 +24,6 @@
   ******
 
 
-* What is DevOps and what is the benefit of using it?  
-  ***DevOps is the combination of development and operations, previously when these roles***  
-  ***were separate inter-team conflicts were common place. However, when combined the service***  
-  ***life cycle becomes more efficient as the whole team is working together instead of lowering***  
-  ***inter-team disputes and increasing the rate of development.***  
-
-
 * What skills should a consultant have and how have you learnt them?
   ******
 
@@ -198,6 +191,25 @@
   ***using CI/CD these tests can be used to automatically ensure a non-functional product doesn't replace***  
   ***a current functional one.***  
   
+### Python:  
+* What is a python package?  
 
-### Python:
-* 
+
+### API:  
+* What is an API and why should we use it?  
+
+
+### DevOps:  
+* What is DevOps and what is the benefit of using it?  
+  ***DevOps is the combination of development and operations, previously when these roles***  
+  ***were separate inter-team conflicts were common place. However, when combined the service***  
+  ***life cycle becomes more efficient as the whole team is working together instead of lowering***  
+  ***inter-team disputes and increasing the rate of development.***  
+
+* Why do you want to be a DevOps Engineer/consultant?  
+
+
+* What is cloud computing and why should we use it?  
+
+
+* explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this
