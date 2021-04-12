@@ -7,7 +7,7 @@
 ## Interview Preparation  
 ### General Knowledge:
 * Tell me about yourself  
-  ***make it more personal, hobbies and achievments / volunteering***  
+  ***make it more personal, hobbies and achievements / volunteering***  
   ***Hi my name is Ben, I have a real passion for technology which lead me to graduating from Essex***  
   ***University with a bachelor's degree in computer science. During my time at university I***  
   ***specialised in programming-oriented topics such as Python, Java, SQL and C#. I used my skills***  
@@ -16,12 +16,16 @@
   ***used new technologies such as Tensorflow with NVIDEA CUDA in python to create a customised***  
   ***process for image classification. Using an agile approach I managed to create a neural network***  
   ***that was capable of discerning infection status of a blood cell with 99% accuracy. I have joined***  
-  ***Sparta Global in the hopes of expanding my skillset to pursue a career as a Junior DevOps engineer***  
+  ***Sparta Global in the hopes of expanding my skill set to pursue a career as a Junior DevOps engineer***  
   ***and consultant.***  
 
 
-* What is a weakness of yours?
-  ******
+* What is a weakness of yours?  
+  ***I have for a long time been hesitant to step forward into conversations whether that is to make***  
+  ***my ideas known or even to simply present my work. I have been taking steps to improve this by using***  
+  ***opportunities provided by Sparta to join conversations and make the realisation that most people***  
+  ***would rather help me succeed through constructive criticism than give me a hard time. I also took***  
+  ***some of my own time to practice my presentation and speaking skills with my friends and family.***  
 
 
 * What skills should a consultant have and how have you learnt them?
@@ -32,7 +36,7 @@
   ***I chose Sparta Global because of both their impressive growth over the last 5 years, with the***  
   ***company having doubled their employee count and their awe-inspiring list of reputable clients.***  
   ***I value the experience and knowledge that I can gain from such a well reviewed and highly***  
-  ***respected company.***  
+  ***respected company.***
 
 
 * Where do you see yourself in 2-5 years time?  
@@ -81,7 +85,9 @@
 
  
 * What are the SCRUM artifacts?  
-  ******
+  1. ***Product Backlog***  
+  2. ***Sprint Backlog***
+  3. ***Product increment***
 
 
 ### SQL:  
